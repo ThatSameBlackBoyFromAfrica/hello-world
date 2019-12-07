@@ -1,2 +1,4 @@
 # hello-world
-Just a start up repository
+Hello,
+i'm a human,
+breathing and thinking,
